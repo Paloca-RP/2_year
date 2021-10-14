@@ -1,0 +1,16 @@
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.exe
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.deps.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.runtimeconfig.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.runtimeconfig.dev.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\ref\A_Slide.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\bin\Debug\net5.0\A_Slide.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.csproj.AssemblyReference.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.AssemblyInfoInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.AssemblyInfo.cs
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\ref\A_Slide.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\ProgVis2021\Semana01\A_Slide\A_Slide\obj\Debug\net5.0\A_Slide.genruntimeconfig.cache
