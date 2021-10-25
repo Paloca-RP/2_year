@@ -89,7 +89,19 @@ namespace LABS02_RP
 
             Console.WriteLine("XXXXX – slide 9 - Instruções e operadores de atribuição");
             Console.WriteLine("variável 1 = " + variavel1 + "\n" +
-               "variável 2 = " + variavel2 + "\n");
+               "variável 2 = " + variavel2 + "\n" +
+               "variavel 1 = " + variavel1++ + "\n" +
+               "varivel 2 = " + variavel2-- + "\n");
+            variavel1 += 10;
+            variavel2 -= 20;
+            Console.WriteLine("variável 1 = " + variavel1 + "\n" +
+              "variável 2 = " + variavel2 + "\n");
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();
+
+            /*Nivel 5*/
+
         }
     }
 }
