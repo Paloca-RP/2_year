@@ -21,14 +21,14 @@ namespace LABS02_RP
     {
         static void Main(string[] args)
         {
-            /*Nivel 2*/
+            /*Nivel 2
             Console.WriteLine("Hello World!");
            
             Console.WriteLine("Prima return para continuar");
             Console.ReadKey();
             Console.Clear();
 
-            /*Nivel 3*/
+            //Nivel 3
             Console.WriteLine("\nXXXXX - Tipos de Dados - Slide 7" +
                 "\n\nUm tipo de dados define um conjunto de valores e as" +
                 "\noperações que podemos executar com esses valores");
@@ -36,7 +36,7 @@ namespace LABS02_RP
             Console.ReadKey();
             Console.Clear();
 
-            /*Nivel 4 A*/
+            //Nivel 4 A
             Console.WriteLine("\nXXXXX – IDENTIFICADORES Slide 7" +
                 "\n\nUm identificador é um nome que damos " +
                 "\n a uma entidade de um programa de c#" +
@@ -63,7 +63,7 @@ namespace LABS02_RP
             Console.ReadKey();
             Console.Clear();
 
-            /*Nivel 4B*/
+            //Nivel 4B
             Console.WriteLine("\nXXXXX - TIPOS DE DADOS POR VALOR E POR REFERÊNCIA – Slide 8" +
                  "\n\ntipo por valor (int, double char etc): " +
                  "\n na variável é escrito um valor" +
@@ -79,7 +79,7 @@ namespace LABS02_RP
             Console.ReadKey();
             Console.Clear();
 
-            /*Nivel 4C*/
+            //Nivel 4C
             int variavel1, tmp, variavel2 = 2;
             variavel1 = 1;
 
@@ -98,9 +98,61 @@ namespace LABS02_RP
               "variável 2 = " + variavel2 + "\n");
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
-            Console.Clear();
 
-            /*Nivel 5*/
+            //Nivel 5
+            //A e B    
+            if(variavel1 > 10) 
+            {
+                Console.WriteLine("O valor " + variavel1 + " é maior que 10");
+            } else {
+                Console.WriteLine("O valor " + variavel1 +" é menor ou igual que 10");
+            }
+            //C e D
+            if (variavel2 >= 0)
+            {
+                variavel2 = 1;
+                Console.Write(variavel2 + " ");
+            }
+            else
+            {
+                variavel2 = -1;
+                Console.Write(variavel2+ " ");
+            }
+
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();*/
+
+            //Nivel 6
+            //por fazer !!!!!!!
+            //Nivel 7
+            //por fazer !!!!!!!
+
+            //Nivel 8
+            Console.WriteLine("\nXXXXX slide 13 - Quando usar qual delas?");
+            Console.WriteLine("\nOperador condicional ?" +
+                "\n Sempre que o resultado da avaliação seja atribuível a " +
+                "\n a uma variável e facilite a leitura." +
+                "\n\nSwitch" +
+                "\n Quando str for uma String ou um enumerável." +
+                "\n\nif /else" +
+                "\n Quando não pudermos usar os dois anteriores");
+            Console.WriteLine("\nprima return para continuar");
+            Console.ReadKey();
+            Console.WriteLine("Mais eficiente, usamos sempre que possível" +
+                "\nInfelizmente só podemos usá-la para iterar coleções");
+            string str1 = "abcdefgh";
+            // ler para cada char chamado s no código abaixo
+            // existente na coleção str1
+            // execute o código do bloco abaixo
+            foreach (char s in str1)
+            {
+                Console.Write(" {0}-", s);
+                Console.Write(" {0}-", s + 1);
+            }
+
+
+
 
         }
     }
