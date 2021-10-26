@@ -21,6 +21,7 @@ namespace LABS02_RP
     {
         static void Main(string[] args)
         {
+            
             /*Nivel 2
             Console.WriteLine("Hello World!");
            
@@ -122,19 +123,47 @@ namespace LABS02_RP
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
             Console.Clear();
-            */
+            
             Console.WriteLine("\nXXXXX slide 10 - Operador condicional ? :");
             Console.Write("\nEscreva o nome de um mês em minúsculas >");
             string str = Console.ReadLine();
             Console.WriteLine(str == "fev" ? "tem 28 dias" : "tem 30 ou 31 dias");
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
-            Console.Clear();             
+            Console.Clear();
 
             //Nivel 6
 
-            //fazer exercicios do nivel!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+            Console.WriteLine("Insira um numero de 1 a 5");
+            var stringTmp_RP = Console.ReadLine();
 
+            int inteiro_RP = int.Parse(stringTmp_RP);
+
+            switch (inteiro_RP)
+            {
+                default:
+                    Console.WriteLine("DEU BRONCA");
+                    break;
+                case 1:
+                    Console.WriteLine("UM");
+                    break;
+                case 2:
+                    Console.WriteLine("DOIS");
+                    break;
+                case 3:
+                    Console.WriteLine("TRES");
+                    break;
+                case 4:
+                    Console.WriteLine("QUATRO");
+                    break;
+                case 5:
+                    Console.WriteLine("CINCO");
+                    break;
+            }
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();
+            
 
             Console.WriteLine("\nXXXXX Slide 11 - seleção if-else");
             switch (str) // str tem de ser de um tipo enumeravel ou string
@@ -164,18 +193,32 @@ namespace LABS02_RP
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
             Console.Clear();
-
-
-
-
-            /*
+            
             //Nivel 7
-            //fazer exercicios do nivel!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+            Console.WriteLine("Insira um numero de 1 a 5");
+            var stringTmp_RP = Console.ReadLine();
+
+            double numero_RP = double.Parse(stringTmp_RP);
+
+            if ((numero_RP >= 0.0 && numero_RP < 1.0) ||
+                (numero_RP >= 1.0 && numero_RP < 2.0) ||
+                (numero_RP >= 2.0 && numero_RP < 3.0) ||
+                (numero_RP >= 3.0 && numero_RP < 4.0) ||
+                (numero_RP >= 4.0 && numero_RP < 5.0) ||
+                (numero_RP >= 5.0 && numero_RP < 6.0))
+            {
+                Console.WriteLine(Math.Round(numero_RP, MidpointRounding.ToZero)); ;
+            }
+            else
+            {
+                Console.WriteLine("DEU BRONCA");
+            }
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();
 
 
-
-
-
+            
             Console.WriteLine("\nXXXXX Slide 12 - seleção if-else");
             if (str == "fevereiro")
             {
@@ -193,6 +236,7 @@ namespace LABS02_RP
                 Console.WriteLine("tem {0} dias", 31);
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
+
             //Nivel 8
             Console.WriteLine("\nXXXXX slide 13 - Quando usar qual delas?");
                     Console.WriteLine("\nOperador condicional ?" +
@@ -215,6 +259,15 @@ namespace LABS02_RP
                 Console.Write(" {0}-", s);
                 Console.Write(" {0}-", s + 1);
             }*/
+
+            //Nivel 9
+
+
+
+
+
+
+
 
         }
     }
