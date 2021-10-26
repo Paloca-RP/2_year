@@ -121,26 +121,91 @@ namespace LABS02_RP
 
             Console.WriteLine("prima return para continuar");
             Console.ReadKey();
-            Console.Clear();*/
+            Console.Clear();
+            */
+            Console.WriteLine("\nXXXXX slide 10 - Operador condicional ? :");
+            Console.Write("\nEscreva o nome de um mês em minúsculas >");
+            string str = Console.ReadLine();
+            Console.WriteLine(str == "fev" ? "tem 28 dias" : "tem 30 ou 31 dias");
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();             
 
             //Nivel 6
-            //por fazer !!!!!!!
-            //Nivel 7
-            //por fazer !!!!!!!
 
+            //fazer exercicios do nivel!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+
+            Console.WriteLine("\nXXXXX Slide 11 - seleção if-else");
+            switch (str) // str tem de ser de um tipo enumeravel ou string
+            {
+                case "janeiro":
+                case "março":
+                case "maio":
+                case "julho":
+                case "agosto":
+                case "outubro":
+                case "dezembro":
+                    Console.WriteLine("tem 31 dias");
+                    break;
+                case "abril":
+                case "junho":
+                case "setembro":
+                case "novembro":
+                    Console.WriteLine("tem {0} dias", 30);
+                    break;
+                case "fevereiro":
+                    Console.WriteLine("tem {0} ou {1} dias", 28, 29);
+                    break;
+                default:
+                    Console.WriteLine("mês desconhecido");
+                    break;
+            }
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
+            Console.Clear();
+
+
+
+
+            /*
+            //Nivel 7
+            //fazer exercicios do nivel!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+
+
+
+
+            Console.WriteLine("\nXXXXX Slide 12 - seleção if-else");
+            if (str == "fevereiro")
+            {
+                // se tiver mais de uma instrução temos de 
+                //criar um bloco com chavetas
+                Console.WriteLine("tem {0} dias", 28);
+                Console.WriteLine("Se o bloco da cláusula" +
+                    "\ntiver duas ou mais instruções" +
+                    "\n temos de as agrupar num bloco");
+            }
+            else if ((str == "abril") || (str == "junho") || (str == "setembro") || (str == "novembro"))
+                // se a intrução for simples não precisa de chavetas
+                Console.WriteLine("tem {0} dias", 30);
+            else
+                Console.WriteLine("tem {0} dias", 31);
+            Console.WriteLine("prima return para continuar");
+            Console.ReadKey();
             //Nivel 8
             Console.WriteLine("\nXXXXX slide 13 - Quando usar qual delas?");
-            Console.WriteLine("\nOperador condicional ?" +
-                "\n Sempre que o resultado da avaliação seja atribuível a " +
-                "\n a uma variável e facilite a leitura." +
-                "\n\nSwitch" +
-                "\n Quando str for uma String ou um enumerável." +
-                "\n\nif /else" +
-                "\n Quando não pudermos usar os dois anteriores");
-            Console.WriteLine("\nprima return para continuar");
-            Console.ReadKey();
+                    Console.WriteLine("\nOperador condicional ?" +
+                        "\n Sempre que o resultado da avaliação seja atribuível a " +
+                        "\n a uma variável e facilite a leitura." +
+                        "\n\nSwitch" +
+                        "\n Quando str for uma String ou um enumerável." +
+                        "\n\nif /else" +
+                        "\n Quando não pudermos usar os dois anteriores");
+                    Console.WriteLine("\nprima return para continuar");
+                    Console.ReadKey();
             Console.WriteLine("Mais eficiente, usamos sempre que possível" +
-                "\nInfelizmente só podemos usá-la para iterar coleções");
+                 "\nInfelizmente só podemos usá-la para iterar coleções");
             string str1 = "abcdefgh";
             // ler para cada char chamado s no código abaixo
             // existente na coleção str1
@@ -149,10 +214,7 @@ namespace LABS02_RP
             {
                 Console.Write(" {0}-", s);
                 Console.Write(" {0}-", s + 1);
-            }
-
-
-
+            }*/
 
         }
     }
