@@ -95,7 +95,7 @@ namespace LABS02_RP
                 (numero_RP >= 4.0 && numero_RP < 5.0) ||
                 (numero_RP >= 5.0 && numero_RP < 6.0))
             {
-                Console.WriteLine(Math.Round(numero_RP, MidpointRounding.ToZero)); ;
+                Console.WriteLine(Math.Round(numero_RP, MidpointRounding.ToZero));
             }
             else
             {
