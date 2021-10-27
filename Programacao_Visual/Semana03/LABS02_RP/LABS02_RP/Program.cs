@@ -6,7 +6,7 @@ namespace LABS02_RP
     {
         static void Main(string[] args)
         {
-            /*
+            
             //Nivel 4C
             int variavel1, tmp, variavel2 = 2;
             variavel1 = 1;
