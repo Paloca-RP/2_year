@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Animais</string>
+    <string name="escolha_um_animal">Escolha um animal:</string>
+    <string name="c_o">Cão</string>
+    <string name="gato">Gato</string>
+    <string name="p_ssaro">Pássaro</string>
+    <string name="todo">TODO</string>
 </resources>

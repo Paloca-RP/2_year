@@ -2,6 +2,7 @@ package com.example.calculadorabasica;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -24,12 +25,13 @@ public class MainActivity extends AppCompatActivity {
         res.setFocusable(false);
 ////////////////////////////////////////////////////////
         //btnSoma
+
         Button btnSoma = (Button) findViewById(R.id.btnSoma);
         btnSoma.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
                 if(MainActivity.this.updateValores()){
-                    res.setText((String.valueOF(valor1 + valor2)));
+                    res.setText((String.valueOf(valor1 + valor2)));
                 }
             }
         });
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
                 if(MainActivity.this.updateValores()){
-                    res.setText((String.valueOF(valor1 - valor2)));
+                    res.setText((String.valueOf(valor1 - valor2)));
                 }
             }
         });
@@ -49,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
                 if(MainActivity.this.updateValores()){
-                    res.setText((String.valueOF(valor1 * valor2)));
+                    res.setText((String.valueOf(valor1 * valor2)));
                 }
             }
         });
@@ -60,28 +62,25 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v){
                 if(MainActivity.this.updateValores()){
                     if(valor2 == 0.0 || valor1 == 0.0){
-                      // res.setText("Erro! Divisão por Zero!!");
-                        res.setText("");
-                        Toast.makeText(context:MainActivity.this, text:"Erro! divisão por zero!!", Toast.LENGTH_SHORT).show();
+                        res.setText("Erro! Divisão por Zero!!");
+                        //res.setText(""); Toast.makeText(context:MainActivity.this, text:"Erro! divisão por zero!!", Toast.LENGTH_SHORT).show();
                     } else {
-                        res.setText((String.valueOF(valor1 / valor2)));
+                        res.setText((String.valueOf(valor1 / valor2)));
                     }
                 }
             }
         });
-////////////////////////////////////////////////////////
-
-        private boolean updateValores() {
-            try {
-                valor1 = Double.parseDouble(num1.getText().toString());
-                valor2 = Double.parseDouble(num2.getText().toString());
-                return true;
-            } catch (Exception ex) {
-                //res.setText(ex.getMessage());
-                res.setText();
-                Toast.makeText(context:MainActivity.this, ex.Message(), Toast.LENGTH_SHORT).show();
-                return false;
-            }
+    }
+    ////////////////////////////////////////////////////////
+    private boolean updateValores() {
+        try {
+            valor1 = Double.parseDouble(num1.getText().toString());
+            valor2 = Double.parseDouble(num2.getText().toString());
+            return true;
+        } catch (Exception ex) {
+            res.setText(ex.getMessage());
+            //res.setText(""); Toast.makeText(context:MainActivity.this, ex.Message(), Toast.LENGTH_SHORT).show();
+            return false;
         }
     }
 }

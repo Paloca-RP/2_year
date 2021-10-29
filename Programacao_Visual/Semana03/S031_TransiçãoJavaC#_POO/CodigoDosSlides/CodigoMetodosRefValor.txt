@@ -1,0 +1,34 @@
+static void DoNotswap(int arg1, int arg2)
+        {
+            int temp = arg1;
+            arg1 = arg2;
+            arg2 = temp;
+        }
+
+        static void Swap(ref int arg1, ref int arg2)
+        {
+            int temp = arg1;
+            arg1 = arg2;
+            arg2 = temp;
+        }
+
+        static void DoNotswap(TestaPassagemPorValorOuReferencia arg1, TestaPassagemPorValorOuReferencia arg2)
+        {
+            TestaPassagemPorValorOuReferencia temp = arg1;
+            arg1 = arg2;
+            arg2 = temp;
+        }
+
+        static void Swap(ref TestaPassagemPorValorOuReferencia arg1, ref TestaPassagemPorValorOuReferencia arg2)
+        {
+            TestaPassagemPorValorOuReferencia temp = arg1;
+            arg1 = arg2;
+            arg2 = temp;
+        }
+
+        static void SwapAtributeValues(TestaPassagemPorValorOuReferencia arg1, TestaPassagemPorValorOuReferencia arg2)
+        {
+            int tmp = arg1.i;
+            arg1.i = arg2.i;
+            arg2.i = tmp;
+        }
