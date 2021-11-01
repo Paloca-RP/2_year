@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\S031_TransiçãoJavaC#_POO\\exemplo aula\\exemplo aula\\exemplo aula.csproj",
-      "projectName": "exemplo aula",
-      "projectPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\S031_TransiçãoJavaC#_POO\\exemplo aula\\exemplo aula\\exemplo aula.csproj",
+      "projectUniqueName": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\LABS03_RP\\LABS03_RP\\LABS03_RP\\LABS03_RP.csproj",
+      "projectName": "LABS03_RP",
+      "projectPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\LABS03_RP\\LABS03_RP\\LABS03_RP\\LABS03_RP.csproj",
       "packagesPath": "C:\\Users\\Ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\S031_TransiçãoJavaC#_POO\\exemplo aula\\exemplo aula\\obj\\",
+      "outputPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana03\\LABS03_RP\\LABS03_RP\\LABS03_RP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
