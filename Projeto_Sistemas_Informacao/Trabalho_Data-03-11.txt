@@ -1,0 +1,15 @@
+Fase de desenvolvimento do software:
+->
+
+Listas de "Processos":
+-> Validação do Cliente 
+-> Escolha de tipo de piza Personalizada ou "predefenida"
+-> Stock(ver se está disponivel pois certas pizzas para serem feitas necessitam de vários igredientes para serem feitos podem haver ou nao) 
+-> Escolha entrega ou ir buscar à restaurante ou comer no Local 
+-> Emissão de fatura
+-> Pagamento (pois se for pra levar a uma determindada morada terá de se pagar custos extra)
+->
+
+
+
+BPMN que alunos Produziram:
