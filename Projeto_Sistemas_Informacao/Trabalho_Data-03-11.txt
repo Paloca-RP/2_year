@@ -1,5 +1,11 @@
 Fase de desenvolvimento do software:
-->
+-> Análise de necessidades do cliente
+-> Criação da planificação do Projecto
+-> Implementção da planificação com um software de codificação adequado
+-> Testes
+-> demsontraçaõ ao Clinete para ver se eram as suas espectativas
+-> Instalação
+-> Manutenção do programa periodica
 
 Listas de "Processos":
 -> Validação do Cliente 
