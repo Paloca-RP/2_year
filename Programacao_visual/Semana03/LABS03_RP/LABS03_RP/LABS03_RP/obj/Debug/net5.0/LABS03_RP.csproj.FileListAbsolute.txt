@@ -1,0 +1,16 @@
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.exe
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.deps.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.runtimeconfig.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.runtimeconfig.dev.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\ref\LABS03_RP.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\bin\Debug\net5.0\LABS03_RP.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.csproj.AssemblyReference.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.AssemblyInfoInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.AssemblyInfo.cs
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\ref\LABS03_RP.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana03\LABS03_RP\LABS03_RP\LABS03_RP\obj\Debug\net5.0\LABS03_RP.genruntimeconfig.cache
