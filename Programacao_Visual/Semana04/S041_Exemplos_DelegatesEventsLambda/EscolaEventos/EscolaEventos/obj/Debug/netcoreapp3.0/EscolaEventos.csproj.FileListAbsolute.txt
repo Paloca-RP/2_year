@@ -1,0 +1,24 @@
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.exe
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.deps.json
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.runtimeconfig.json
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.runtimeconfig.dev.json
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.dll
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.pdb
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.csprojAssemblyReference.cache
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.AssemblyInfoInputs.cache
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.AssemblyInfo.cs
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.dll
+C:\Users\Jose-MSI\Dropbox\PV 2019-2020 Pessoal\Código de exemplo\Working\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.pdb
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.exe
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.deps.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.runtimeconfig.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.runtimeconfig.dev.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\bin\Debug\netcoreapp3.0\EscolaEventos.pdb
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.csproj.AssemblyReference.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.AssemblyInfoInputs.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.AssemblyInfo.cs
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.csproj.CoreCompileInputs.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.pdb
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.genruntimeconfig.cache

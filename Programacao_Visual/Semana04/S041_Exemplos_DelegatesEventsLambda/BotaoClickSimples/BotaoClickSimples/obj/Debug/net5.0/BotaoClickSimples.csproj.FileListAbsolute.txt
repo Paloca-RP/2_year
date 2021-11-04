@@ -1,0 +1,16 @@
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.exe
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.deps.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.runtimeconfig.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.runtimeconfig.dev.json
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\ref\BotaoClickSimples.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\bin\Debug\net5.0\BotaoClickSimples.pdb
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.csproj.AssemblyReference.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.GeneratedMSBuildEditorConfig.editorconfig
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.AssemblyInfoInputs.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.AssemblyInfo.cs
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.csproj.CoreCompileInputs.cache
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\ref\BotaoClickSimples.dll
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.pdb
+F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\BotaoClickSimples\BotaoClickSimples\obj\Debug\net5.0\BotaoClickSimples.genruntimeconfig.cache

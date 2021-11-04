@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="texto_botao">Toggle</string>
+    <string name="texto_som_normal">Normal Mode</string>
+    <string name="texto_som_silencioso">Silent Mode</string>
+
+</resources>
