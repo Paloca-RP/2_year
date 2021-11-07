@@ -22,3 +22,5 @@ F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\
 F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.dll
 F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.pdb
 F:\000_IPS\000_UCs\000_PV_2021_22_1_TESP_TPSI\AULAS\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.genruntimeconfig.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana04\S041_Exemplos_DelegatesEventsLambda\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\Semana04\S041_Exemplos_DelegatesEventsLambda\EscolaEventos\EscolaEventos\obj\Debug\netcoreapp3.0\EscolaEventos.pdb
