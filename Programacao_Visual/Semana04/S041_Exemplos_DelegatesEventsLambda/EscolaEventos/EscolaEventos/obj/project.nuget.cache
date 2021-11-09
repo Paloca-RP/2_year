@@ -1,13 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "XgyTBmH7+wC6dOlxTxl4JHjaCH1pbeyfC3D+qswVQtNqnrrZBuhuL6H5XjnbbL9CnY0uPEnQnAUZ8tum2qLvDQ==",
-  "success": true,
-  "projectFilePath": "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\EscolaEventos\\EscolaEventos\\EscolaEventos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\MyName\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\MyName\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\MyName\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\MyName\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "JhTKcMZxDNl+2jPJNuSzYlUvkSC/lnsBoDvPSvyMOSTNIe2NUUh6mYL0GuOi/8kSVr/kaVn6/9KaRQtmwYeH3w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_visual\\Semana04\\S041_Exemplos_DelegatesEventsLambda\\EscolaEventos\\EscolaEventos\\EscolaEventos.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.WindowsDesktop.App.Ref. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Ref. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
 }
