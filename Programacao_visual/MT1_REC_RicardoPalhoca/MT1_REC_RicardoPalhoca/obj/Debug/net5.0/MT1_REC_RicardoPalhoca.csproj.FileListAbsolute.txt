@@ -1,0 +1,16 @@
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.exe
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.deps.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.runtimeconfig.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.runtimeconfig.dev.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\ref\MT1_REC_RicardoPalhoca.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\bin\Debug\net5.0\MT1_REC_RicardoPalhoca.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.csproj.AssemblyReference.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.AssemblyInfoInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.AssemblyInfo.cs
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\ref\MT1_REC_RicardoPalhoca.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_visual\MT1_REC_RicardoPalhoca\MT1_REC_RicardoPalhoca\obj\Debug\net5.0\MT1_REC_RicardoPalhoca.genruntimeconfig.cache
