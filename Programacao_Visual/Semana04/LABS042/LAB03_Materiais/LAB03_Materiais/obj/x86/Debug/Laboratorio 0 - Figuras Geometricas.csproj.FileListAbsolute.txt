@@ -1,0 +1,52 @@
+c:\users\jose-vm-dev\documents\visual studio 2010\Projects\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+c:\users\jose-vm-dev\documents\visual studio 2010\Projects\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+c:\users\jose-vm-dev\documents\visual studio 2010\Projects\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jose-vm-dev\documents\visual studio 2010\Projects\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+c:\users\jose-vm-dev\documents\visual studio 2010\Projects\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV 2012-2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV 2012-2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI 2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI 2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI 2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI 2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI 2013\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI-2 2013\Laboratórios\PV-PosEI-2 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI-2 2013\Laboratórios\PV-PosEI-2 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI-2 2013\Laboratórios\PV-PosEI-2 - LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI-2 2013\Laboratórios\PV-PosEI-2 - LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2012-2013\PV PosEI-2 2013\Laboratórios\PV-PosEI-2 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+C:\Users\Jose-Vaio\Documents\Work 2013-2014\PV 2013-2014\Laboratorios\PV-2013-2014 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2013-2014\PV 2013-2014\Laboratorios\PV-2013-2014 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2013-2014\PV 2013-2014\Laboratorios\PV-2013-2014 - LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose-Vaio\Documents\Work 2013-2014\PV 2013-2014\Laboratorios\PV-2013-2014 - LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose-Vaio\Documents\Work 2013-2014\PV 2013-2014\Laboratorios\PV-2013-2014 - LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Dropbox\PV 2014-2015\Laboratorios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV 2014-2015\Laboratorios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV 2014-2015\Laboratorios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV 2014-2015\Laboratorios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV 2014-2015\Laboratorios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Dropbox\PV 2015-2016\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV 2015-2016\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV 2015-2016\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV 2015-2016\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV 2015-2016\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+C:\Users\Jose\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+C:\Users\Jose\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+C:\Users\MyName\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+C:\Users\MyName\Dropbox\PV\PV 2016-2017\Laboratórios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\TeSP TPSI PV-16-17_Lab00\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\TeSP TPSI PV-16-17_Lab00\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\TeSP TPSI PV-16-17_Lab00\LAB01_PV201617\bin\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\TeSP TPSI PV-16-17_Lab00\LAB01_PV201617\bin\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\TeSP TPSI PV-16-17_Lab00\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.csprojResolveAssemblyReference.cache
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB00_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB00_PV201617\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617_Materiais\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.exe
+E:\000_IPS\000_UCs\CTESP-TPSI-PV\Laboratorios\LAB01_PV201617_Materiais\LAB01_PV201617\obj\x86\Debug\LAB01_PV201617.pdb
