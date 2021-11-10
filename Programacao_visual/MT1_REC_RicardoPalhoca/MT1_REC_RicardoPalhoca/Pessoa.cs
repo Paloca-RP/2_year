@@ -45,5 +45,10 @@ namespace MT1_REC_RicardoPalhoca
         public Pessoa(String nome_RP) : this (nome_RP, "Sem Numero", 0)
         {
         }
+
+        override public string ToString()
+        {
+            return Nome_RP + "\t" + Numero_RP + "\t" + Ano_RP;
+        }
     }
 }
