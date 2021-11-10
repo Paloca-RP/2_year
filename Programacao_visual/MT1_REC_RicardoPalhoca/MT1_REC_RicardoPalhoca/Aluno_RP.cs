@@ -29,7 +29,7 @@ namespace MT1_REC_RicardoPalhoca
             set { inscrito_RP = value; }
         }
 
-        public Aluno_RP(String nome_RP, String codigo_RP, bool inscrito_RP)
+        public Aluno_RP(string nome_RP, string codigo_RP, bool inscrito_RP)
         {
             this.Nome_RP = nome_RP;
             this.Codigo_RP = codigo_RP;
@@ -39,7 +39,7 @@ namespace MT1_REC_RicardoPalhoca
         public Aluno_RP() : this ("Sem nome", "0", false)
         {
         }
-        public Aluno_RP(String nome_RP) : this (nome_RP,"Sem Codigo", false) 
+        public Aluno_RP(string nome_RP) : this (nome_RP,"Sem Codigo", false) 
         {
         }
 
