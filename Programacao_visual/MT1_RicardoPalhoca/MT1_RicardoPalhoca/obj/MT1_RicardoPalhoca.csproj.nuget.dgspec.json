@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj": {}
+    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj": {
+    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj",
+        "projectUniqueName": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj",
         "projectName": "MT1_RicardoPalhoca",
-        "projectPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj",
+        "projectPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca.csproj",
         "packagesPath": "C:\\Users\\Ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\obj\\",
+        "outputPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1_RicardoPalhoca\\MT1_RicardoPalhoca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -25,7 +26,8 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
