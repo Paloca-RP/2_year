@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "S051_TutorialColecoes_RP/1.0.0": {
+        "runtime": {
+          "S051_TutorialColecoes_RP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S051_TutorialColecoes_RP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

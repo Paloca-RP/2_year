@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MT1REC_RicardoPalhoca/1.0.0": {
+        "runtime": {
+          "MT1REC_RicardoPalhoca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MT1REC_RicardoPalhoca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

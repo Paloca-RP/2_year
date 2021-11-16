@@ -1,0 +1,16 @@
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.csproj.AssemblyReference.cache
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.AssemblyInfoInputs.cache
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.AssemblyInfo.cs
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.exe
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.deps.json
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.runtimeconfig.json
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.runtimeconfig.dev.json
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.dll
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\ref\S051_TutorialColecoes_RP.dll
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\bin\Debug\net5.0\S051_TutorialColecoes_RP.pdb
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.dll
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\ref\S051_TutorialColecoes_RP.dll
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.pdb
+C:\Users\Ricar\Desktop\S051_TutorialColecoes_RP\S051_TutorialColecoes_RP\obj\Debug\net5.0\S051_TutorialColecoes_RP.genruntimeconfig.cache
