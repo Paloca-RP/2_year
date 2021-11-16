@@ -1,5 +1,8 @@
-var express = require('express');
+const express = require('express');
+const bodyParser = require('express');
 var app = express();
+
+const fs = require('fs')
 
 app.use(express.urlencoded()); //Parse URL-encoded body (pedidos de formulários)
 app.use(express.static(__dirname + '/www'));
