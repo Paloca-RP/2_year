@@ -1,0 +1,16 @@
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.exe
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.deps.json
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.runtimeconfig.json
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.runtimeconfig.dev.json
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.dll
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\ref\T1_RicardoPalhoca.dll
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\bin\Debug\net5.0\T1_RicardoPalhoca.pdb
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.csproj.AssemblyReference.cache
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.AssemblyInfoInputs.cache
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.AssemblyInfo.cs
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.dll
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\ref\T1_RicardoPalhoca.dll
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.pdb
+C:\Users\Ricar\Desktop\T1_RicardoPalhoca\T1_RicardoPalhoca\obj\Debug\net5.0\T1_RicardoPalhoca.genruntimeconfig.cache

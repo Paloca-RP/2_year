@@ -10,10 +10,7 @@ namespace MT1REC_RicardoPalhoca
     {
         public string TituloDaSerie_RP { get; set; }
 
-        public Serie_RP(string tituloDaSerie_RP,
-            string titulo_RP, 
-            int stock_RP, 
-            Auto_RP autor_RP) : base (stock_RP, titulo_RP,autor_RP )
+        public Serie_RP(string tituloDaSerie_RP,string titulo_RP,  int stock_RP,Auto_RP autor_RP) : base (stock_RP, titulo_RP,autor_RP )
         {
             TituloDaSerie_RP = tituloDaSerie_RP;    
         }

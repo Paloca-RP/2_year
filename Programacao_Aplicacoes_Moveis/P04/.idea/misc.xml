@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ricar/Documents/GitHub/2_year/Programacao_Aplicacoes_Moveis/P04/app/src/main/res/layout/activity_main.xml" value="1.0" />
-        <entry key="..\:/Users/Ricar/Documents/GitHub/2_year/Programacao_Aplicacoes_Moveis/P04/app/src/main/res/layout/activity_result.xml" value="0.3625" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/layout/activity_help.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/layout/activity_result2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Utilizador/Desktop/Bruno/1CTeSP/CTeSP/2-ano/PAM/Pratica4/Ex1/app/src/main/res/menu/result.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

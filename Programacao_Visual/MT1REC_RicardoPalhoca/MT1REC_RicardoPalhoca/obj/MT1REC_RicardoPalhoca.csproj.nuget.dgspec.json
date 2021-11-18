@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ricar\\Desktop\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj": {}
+    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ricar\\Desktop\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj": {
+    "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ricar\\Desktop\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj",
+        "projectUniqueName": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj",
         "projectName": "MT1REC_RicardoPalhoca",
-        "projectPath": "C:\\Users\\Ricar\\Desktop\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj",
+        "projectPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca.csproj",
         "packagesPath": "C:\\Users\\Ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ricar\\Desktop\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\obj\\",
+        "outputPath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\MT1REC_RicardoPalhoca\\MT1REC_RicardoPalhoca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
