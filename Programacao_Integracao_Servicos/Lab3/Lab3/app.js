@@ -68,6 +68,28 @@ app.get('/rota/subrota2', function(req, res, next){
    res.send("Rota 2"); 
 }); 
 
-app.listen(8081);
-*/
+app.listen(8081);*/
+
 //Nivel 4
+var express = require('express'); 
+var app = express(); 
+const fs =  require('fs');
+//Middleware: apenas executado para as rotas /rota 
+app.use('/rota',function (req, res, next) { 
+    fs.appendFileSync("api-requests.txt", Date.now() + ' | ' + req.ip + ' : ' + req.url + "\n"); 
+    next(); 
+}); 
+ 
+app.get('/', function(req, res, next){ 
+   res.send("Root"); 
+}); 
+ 
+app.get('/rota/subrota1', function(req, res, next){ 
+   res.send("Rota 1"); 
+}); 
+ 
+app.get('/rota/subrota2', function(req, res, next){ 
+   res.send("Rota 2"); 
+}); 
+ 
+app.listen(8081);

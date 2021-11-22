@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "P05"
+rootProject.name = "Pratica4Ex1"
 include ':app'
