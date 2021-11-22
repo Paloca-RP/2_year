@@ -1,42 +1,44 @@
 {
-    "Pessoa":
-    [
-        {"primeiroNome":"Rui", "ultimoNome":"Rodrigues"},
-        {"primeiroNome":"nome1", "ultimoNome":"nome2"}
-    ],
-
-    "Veiculos":
-    [
+    "Utilizadores":[
         {
-            "carros":
-            [
-                {"numeroLugares":"4", "cor":"azul"}
-            ]
+            "id": 1,
+            "nome": "Manuel",
+            "data_de_nascimento": null
         },
-
         {
-            "motas":
-            [
-                {"numeroLugares":"2", "cor": "verde"}
-            ]
+            "id": 2,
+            "nome": "Maria",
+            "data_de_nascimento": "07-12-1990"
         }
     ],
-
-    "UnidadeCurricular":
-    [
-        {"id":"1", "acronimo":"PIS", "nome":"PIS", "cargaHoraria":"40"},
-        {"id":"2", "acronimo":"BD", "nome":"BD", "cargaHoraria":"40"}
+    "Casas": [
+        {
+            "id": 1,
+            "cor": "#fff",
+            "morada": "Rua da Água",
+            "preço": {
+                "valor": 160000,
+                "unidade": "$"
+            }
+        },
+        {
+            "id": 2,
+            "cor": "red",
+            "morada": "Rua dos Cravos",
+            "preço": {
+                "valor": 180000,
+                "unidade": "€"
+            }
+        }
     ],
-    
-    "Filme":
-    [
-        {"nome":"Star Wars", "ano":"1978", "atores":[{"nome":"Carrie Fisher"}, {"nome":"Harryson Ford"}]},
-        {"nome":"MATRIX", "ano":"1999", "atores":[{"nome":"Keanu Reeves"}]}
-    ],
-
-    "Banda":
-    [
-        {"nome":"Nirvana", "genero":"Punk", "albuns":[{"nome":"nevermind", "ano":"1991"}]},
-        {"nome":"ACDC", "genero":"Hard Rock", "albuns":[{"nome":"back in black", "ano":"1980"}, {"nome":"black ice", "ano":"2008"}]}
+    "Utilizadores_Casas": [
+        {
+            "id_Utilizador": 1,
+            "id_Casa": 2
+        },
+        {
+            "id_Utilizador": 2,
+            "id_Casa": 1
+        }
     ]
 }

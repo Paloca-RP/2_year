@@ -1,0 +1,34 @@
+<Utilizadores>
+    <Utilizador id="1">
+        <nome>Manuel</nome>
+        <data_de_nascimento>null</data_de_nascimento>
+    </Utilizador id="2">
+        <nome>Maria</nome>
+        <data_de_nascimento>07-12-1990</data_de_nascimento>
+</Utilizadores>
+
+<Casas>
+    <Casa id = "1">
+        <cor>branco</cor>
+        <morada>Rua da Água</morada>
+        <preco>
+            <valor>160000</valor>
+            <unidade>$</unidade>
+        </preco>
+    </Casa>
+    <Casa id = "2">
+        <cor>red</cor>
+        <morada>Rua dos Cravos</morada>
+        <preco>
+            <valor>180000</valor>
+            <unidade>€</unidade>
+        </preco>
+    </Casa>
+</Casas>
+
+<Utilizadores_Casas>
+    <Utilizador_Casa idutilizador = "1" idcasa = "2">
+    </Utilizador_Casa>
+    <Utilizador_Casa idutilizador = "2" idcasa = "1">
+    </Utilizador_Casa>
+</Utilizadores_Casas>

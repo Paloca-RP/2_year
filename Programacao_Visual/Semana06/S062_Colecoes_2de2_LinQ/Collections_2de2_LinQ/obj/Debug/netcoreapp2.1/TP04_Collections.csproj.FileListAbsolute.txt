@@ -1,0 +1,11 @@
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\bin\Debug\netcoreapp2.1\TP04_Collections.deps.json
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\bin\Debug\netcoreapp2.1\TP04_Collections.runtimeconfig.json
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\bin\Debug\netcoreapp2.1\TP04_Collections.runtimeconfig.dev.json
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\bin\Debug\netcoreapp2.1\TP04_Collections.dll
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\bin\Debug\netcoreapp2.1\TP04_Collections.pdb
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.csprojAssemblyReference.cache
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.csproj.CoreCompileInputs.cache
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.AssemblyInfoInputs.cache
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.AssemblyInfo.cs
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.dll
+E:\000_IPS\000_UCs\000_PV_TESP_TPSI_2019_2020_1\TP\TP04_Colecoes_LinQ\TP04_Collections\TP04_Collections\obj\Debug\netcoreapp2.1\TP04_Collections.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wk2T2k3F/RK0jDOCADS9I9hg6FGjs7iBkTjMs2uo2RAtb1rw1OJhqlSrURuQTEemLz/c/473lcgBPOQMHoktog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\Semana06\\S062_Colecoes_2de2_LinQ\\Collections_2de2_LinQ\\Collections_2de2_LinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ricar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
