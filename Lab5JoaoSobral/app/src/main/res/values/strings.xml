@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="cc_ballance">CC Ballance (€)</string>
+    <string name="insert">Insert Values</string>
+    <string name="rate">Rate (%)</string>
+    <string name="payment_month">Payment per mounth</string>
+    <string name="created">App Developed by:</string>
+    <string name="about">About Creator</string>
+    <string name="mounth_to_pay">Months to pay out debit</string>
+    <string name="interest_will_pay">Total interest you will pay</string>
+    <string name="total_pay_back">Total to pay back</string>
+    <string name="repeat">Calculate Again</string>
+    <string name="calculate">Calculate</string>
+</resources>
