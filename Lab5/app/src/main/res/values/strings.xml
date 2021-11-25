@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Lab5</string>
+    <string name="Ballance">CC Ballance</string>
+    <string name="Rate">Rate %</string>
+    <string name="Payment">Payment per mounth</string>
+    <string name="value">Insert Values</string>
+    <string name="buttonMain">Calcular</string>
+    <string name="Months">Months ton pay out debit</string>
+    <string name="willpay">Total interest you will pay</string>
+    <string name="totalpay">Total to pay back</string>
 </resources>
