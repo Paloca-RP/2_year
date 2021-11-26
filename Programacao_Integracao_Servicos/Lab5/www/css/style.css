@@ -1,0 +1,41 @@
+#mainNav {
+  width: 100%;
+  display: flex;
+}
+
+#mainNav a {
+  text-align: center;
+  width: 33%;
+  color: white;
+  background-color: rgb(92, 92, 92);
+}
+
+#mainNav a:hover {
+  background-color: rgb(139, 139, 139);
+  color: white;
+}
+
+#content{
+  background-color: rgba(201, 200, 255, 0.63);
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.square {
+  width: 25px;
+  height: 20px;
+  border: 1px solid black;
+}
+
+.square element {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@media  (max-width: 680px) {
+  #content{
+    width: 90%;
+  }
+}
