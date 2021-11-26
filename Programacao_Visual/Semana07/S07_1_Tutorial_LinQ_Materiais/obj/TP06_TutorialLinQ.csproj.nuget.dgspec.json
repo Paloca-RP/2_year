@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\S07_1_TransiçãoJavaC#_LINQ_RECUPT1\\TP06_TutorialLinQ_Materiais\\TP06_TutorialLinQ.csproj": {}
+  },
+  "projects": {
+    "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\S07_1_TransiçãoJavaC#_LINQ_RECUPT1\\TP06_TutorialLinQ_Materiais\\TP06_TutorialLinQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\S07_1_TransiçãoJavaC#_LINQ_RECUPT1\\TP06_TutorialLinQ_Materiais\\TP06_TutorialLinQ.csproj",
+        "projectName": "TP06_TutorialLinQ",
+        "projectPath": "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\S07_1_TransiçãoJavaC#_LINQ_RECUPT1\\TP06_TutorialLinQ_Materiais\\TP06_TutorialLinQ.csproj",
+        "packagesPath": "C:\\Users\\MyName\\.nuget\\packages\\",
+        "outputPath": "F:\\000_IPS\\000_UCs\\000_PV_2021_22_1_TESP_TPSI\\AULAS\\S07_1_TransiçãoJavaC#_LINQ_RECUPT1\\TP06_TutorialLinQ_Materiais\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MyName\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

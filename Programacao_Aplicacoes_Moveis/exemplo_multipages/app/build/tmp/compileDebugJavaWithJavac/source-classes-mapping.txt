@@ -1,0 +1,4 @@
+com/example/bmi/activity_result.java
+ com.example.bmi.activity_result
+com/example/bmi/activity_help.java
+ com.example.bmi.activity_help
