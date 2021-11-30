@@ -24,3 +24,17 @@ C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\S07_1_Tutoria
 C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.dll
 C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.pdb
 C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.genruntimeconfig.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.exe
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.deps.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.runtimeconfig.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.runtimeconfig.dev.json
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\bin\Debug\netcoreapp3.1\TutorialLinQ.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.csproj.AssemblyReference.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.AssemblyInfoInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.AssemblyInfo.cs
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.dll
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.pdb
+C:\Users\Ricar\Documents\GitHub\2_year\Programacao_Visual\Semana07\Tutorial\S07_1_Tutorial_LinQ_Materiais\obj\Debug\netcoreapp3.1\TutorialLinQ.genruntimeconfig.cache

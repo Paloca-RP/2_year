@@ -13,5 +13,10 @@ namespace LAB06
         public string Category { get; set; }
         public decimal UnitPrice { get; set; }
         public int UnitsInStock { get; set; }
+
+        public override string ToString()
+        {
+            return ProductId + " - " + ProductName + " - " + Category + " - " + UnitPrice + " - " + UnitsInStock;
+        }
     }
 }

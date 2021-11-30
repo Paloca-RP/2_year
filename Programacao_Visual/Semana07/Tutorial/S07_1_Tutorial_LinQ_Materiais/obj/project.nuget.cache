@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWbNA+e/SiRiXbUExT++5qNZiM15X/Y2Gmp+V+w7hds8rSP59axZbG7R6dCVwBjsHCB4ZeFIo6Y/fKGJmtSXMw==",
+  "dgSpecHash": "VcIHK3ittTi+M1nWSqKbBD1Qp6L9QU2YtvzZ3VbHvmpvDwUWeSsHfUBFv7Kn81jdgSq8EUUHL8mk3HsRVHaEzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\Semana07\\S07_1_Tutorial_LinQ_Materiais\\TutorialLinQ.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
-    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Ricar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ricar\\Documents\\GitHub\\2_year\\Programacao_Visual\\Semana07\\Tutorial\\S07_1_Tutorial_LinQ_Materiais\\TutorialLinQ.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

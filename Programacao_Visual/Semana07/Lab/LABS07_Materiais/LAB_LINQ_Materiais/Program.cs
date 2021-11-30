@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LAB06
 {
@@ -12,13 +10,15 @@ namespace LAB06
         {
             List<Product> products = CriarProdutos();
 
-            Console.WriteLine("Lista de Produtos: \n");
-            foreach (Product product in products)
-            {
-                Console.WriteLine("{0:00} - {1}", product.ProductId, product.ProductName);
-            }
+            //Console.WriteLine("Lista de Produtos: \n");
+            //foreach (Product product in products)
+            //{
+            //    Console.WriteLine("{0:00} - {1}", product.ProductId, product.ProductName);
+            //}
+            //Console.ReadKey();
+            //Console.Clear();
 
-            // Testes LinQ
+            //Testes LinQ
 
             //var todos = from i in products select i;
 
@@ -28,11 +28,68 @@ namespace LAB06
             //{
             //    Console.WriteLine(product);
             //}
-            Console.ReadLine();
-            Console.Clear();
+            //Console.ReadKey();
+            //Console.Clear();
+
+            //Console.WriteLine("\tNivel 1 xxxx");
+            ////tds os alunos
+            //Console.WriteLine("\n******* Todos os Productos *******");
+            //var todosProdutos = from i in products 
+            //                    select i.ProductName;
+            //foreach(var i in todosProdutos)
+            //    Console.WriteLine(i.ToString());
+            ////tds os productos sem stock
+            //Console.WriteLine("\n******* Productos sem stock *******");
+            //var tdsSemStock = from i in products 
+            //                  where i.UnitsInStock == 0 
+            //                  select i.ProductName;
+            //foreach (var i in tdsSemStock)
+            //    Console.WriteLine(i.ToString());
+            ////tds os nomes ordem alfabética
+            //Console.WriteLine("\n******* Productos por Ordem alfabética *******");
+            //var tdsNomes = from i in products
+            //               orderby i.ProductName
+            //               select i.ProductName;
+            //foreach(var i in tdsNomes)
+            //    Console.WriteLine(i.ToString());
+            //Console.ReadKey();
+            //Console.Clear();
+
+            //Console.WriteLine("\t Nivel 2 xxxx");
+            ////lista de bebidas que custam menos de 25€
+            ////ordenadas pelo preço.
+            //var listBebidas = from i in products
+            //                  where i.Category == "Beverages"
+            //                  orderby i.UnitPrice < 25
+            //                  select i.ProductName;
+            //foreach (var i in listBebidas)
+            //    Console.WriteLine(i.ToString());
+            //Console.ReadKey();
+            Console.WriteLine("ADD Novo Producto 1");
+            products.Add(new Product()
+            {
+                ProductId = 78,
+                ProductName = "Sagres",
+                Category = "Beverages",
+                UnitPrice = 12.2000M,
+                UnitsInStock = 25
+            });
+            Console.ReadKey();
+            Console.WriteLine("ADD Novo Producto 2");
+            products.Add(new Product()
+            {
+                ProductId = 79,
+                ProductName = "Super Bock",
+                Category = "Beverages",
+                UnitPrice = 10.1000M,
+                UnitsInStock = 15
+            });
+            Console.ReadKey();
 
 
-            Console.WriteLine("xxx Nivel 1 xxx");
+
+
+
         }
 
         private static List<Product> CriarProdutos()
