@@ -10,62 +10,62 @@ namespace LAB06
         {
             List<Product> products = CriarProdutos();
 
-            //Console.WriteLine("Lista de Produtos: \n");
-            //foreach (Product product in products)
-            //{
-            //    Console.WriteLine("{0:00} - {1}", product.ProductId, product.ProductName);
-            //}
-            //Console.ReadKey();
-            //Console.Clear();
+            Console.WriteLine("Lista de Produtos: \n");
+            foreach (Product product in products)
+            {
+                Console.WriteLine("{0:00} - {1}", product.ProductId, product.ProductName);
+            }
+            Console.ReadKey();
+            Console.Clear();
 
             //Testes LinQ
 
-            //var todos = from i in products select i;
+            var todos = from i in products select i;
 
-            //List<Product> snapshotDosProdutos = todos.ToList();
+            List<Product> snapshotDosProdutos = todos.ToList();
 
-            //foreach (Product product in snapshotDosProdutos)
-            //{
-            //    Console.WriteLine(product);
-            //}
-            //Console.ReadKey();
-            //Console.Clear();
+            foreach (Product product in snapshotDosProdutos)
+            {
+                Console.WriteLine(product);
+            }
+            Console.ReadKey();
+            Console.Clear();
 
-            //Console.WriteLine("\tNivel 1 xxxx");
-            ////tds os alunos
-            //Console.WriteLine("\n******* Todos os Productos *******");
-            //var todosProdutos = from i in products 
-            //                    select i.ProductName;
-            //foreach(var i in todosProdutos)
-            //    Console.WriteLine(i.ToString());
-            ////tds os productos sem stock
-            //Console.WriteLine("\n******* Productos sem stock *******");
-            //var tdsSemStock = from i in products 
-            //                  where i.UnitsInStock == 0 
-            //                  select i.ProductName;
-            //foreach (var i in tdsSemStock)
-            //    Console.WriteLine(i.ToString());
-            ////tds os nomes ordem alfabética
-            //Console.WriteLine("\n******* Productos por Ordem alfabética *******");
-            //var tdsNomes = from i in products
-            //               orderby i.ProductName
-            //               select i.ProductName;
-            //foreach(var i in tdsNomes)
-            //    Console.WriteLine(i.ToString());
-            //Console.ReadKey();
-            //Console.Clear();
+            Console.WriteLine("\tNivel 1 xxxx");
+            //tds os alunos
+            Console.WriteLine("\n******* Todos os Productos *******");
+            var todosProdutos = from i in products
+                                select i.ProductName;
+            foreach (var i in todosProdutos)
+                Console.WriteLine(i.ToString());
+            //tds os productos sem stock
+            Console.WriteLine("\n******* Productos sem stock *******");
+            var tdsSemStock = from i in products
+                              where i.UnitsInStock == 0
+                              select i.ProductName;
+            foreach (var i in tdsSemStock)
+                Console.WriteLine(i.ToString());
+            //tds os nomes ordem alfabética
+            Console.WriteLine("\n******* Productos por Ordem alfabética *******");
+            var tdsNomes = from i in products
+                           orderby i.ProductName
+                           select i.ProductName;
+            foreach (var i in tdsNomes)
+                Console.WriteLine(i.ToString());
+            Console.ReadKey();
+            Console.Clear();
 
-            //Console.WriteLine("\t Nivel 2 xxxx");
-            ////lista de bebidas que custam menos de 25€
-            ////ordenadas pelo preço.
-            //var listBebidas = from i in products
-            //                  where i.Category == "Beverages"
-            //                  orderby i.UnitPrice < 25
-            //                  select i.ProductName;
-            //foreach (var i in listBebidas)
-            //    Console.WriteLine(i.ToString());
-            //Console.ReadKey();
-            Console.WriteLine("ADD Novo Producto 1");
+            Console.WriteLine("\t Nivel 2 xxxx");
+            //lista de bebidas que custam menos de 25€
+            //ordenadas pelo preço.
+            var listBebidas = from i in products
+                              where i.Category == "Beverages"
+                              orderby i.UnitPrice < 25
+                              select i.ProductName;
+            foreach (var i in listBebidas)
+                Console.WriteLine(i.ToString());
+            Console.ReadKey();
+            Console.Clear();
             products.Add(new Product()
             {
                 ProductId = 78,
@@ -74,8 +74,6 @@ namespace LAB06
                 UnitPrice = 12.2000M,
                 UnitsInStock = 25
             });
-            Console.ReadKey();
-            Console.WriteLine("ADD Novo Producto 2");
             products.Add(new Product()
             {
                 ProductId = 79,
@@ -84,11 +82,180 @@ namespace LAB06
                 UnitPrice = 10.1000M,
                 UnitsInStock = 15
             });
+            foreach (var i in listBebidas)
+                Console.WriteLine(i.ToString());
             Console.ReadKey();
 
+            var numAuto = (from i in products
+                           select i.ProductId).Max() + 1;
+            products.Add(new Product
+            {
+                ProductId = numAuto,
+                ProductName = "Carlsberg",
+                Category = "Beverages",
+                UnitPrice = 18.1M,
+                UnitsInStock = 12
+            });
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("\tNivel 3 xxxx");
+            var barato = (from i in products
+                          select i.UnitPrice).Min();
+            Console.WriteLine("Mais Barato: " + barato);
+
+            var caro = (from i in products
+                        select i.UnitPrice).Max();
+            Console.WriteLine("Mais Caro: " + caro);
+
+            var media = (from i in products
+                         select i.UnitPrice).Average();
+            Console.WriteLine("Média dos Preços" + media);
+            Console.ReadKey();
+            Console.WriteLine("\n listagem de prodctos e seus preços totais\n");
+            decimal totalStock = 0;
+            var totalstocks = from i in products
+                              select new
+                              {
+                                  Nome = i.ProductName,
+                                  Valor_Total = (i.UnitPrice * i.UnitsInStock)
+                              };
+            foreach (var i in totalstocks)
+            {
+                Console.WriteLine("Nome: " + i.Nome + " \nValor Total: " + i.Valor_Total);
+                totalStock += i.Valor_Total;
+            }
+            Console.WriteLine("\nValor total dos produtos em stock: " + totalStock);
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("\t Nivel 4 xxxx");
+
+            Console.WriteLine("Preços de Forma Ascendente\n");
+            var listaAscendente = products.OrderBy(i => i.UnitPrice).Select(i => i);
+            foreach (var i in listaAscendente)
+                Console.WriteLine(i.ToString());
+
+            Console.WriteLine("\nCategorias sem repetição das mesma\n");
+            var semRep = products.Select(i => i.Category).Distinct();
+            foreach (var i in semRep)
+                Console.WriteLine(i.ToString());
+
+            var custoHigh = products.Where(i => i.UnitPrice > 200).Select(i => i).Any();
+            if (custoHigh == true)
+                Console.WriteLine("\nExistem Productos com custo maior que 200\n");
+            else
+                Console.WriteLine("\nNão Existem Productos com custo maior que 200\n");
+
+            var MediaStocks = products.Select(i => i.UnitsInStock).Average();
+            Console.WriteLine("Média de Unidades: " + MediaStocks);
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("\t Nivel 5 xxxx");
+
+            Console.WriteLine("\nOs primeiros 3 produtos que custam mais de 50 (operador Take)");
+            var tresPrimeiros = (from i in products
+                                 where i.UnitPrice > 50
+                                 select i).Take(3);
+            foreach (var i in tresPrimeiros)
+                Console.WriteLine(i.ToString());
+
+            Console.WriteLine("\nO quarto e o quinto produto começado pela letra C (operadores Take e Skip)");
+            var produtosC = (from i in products
+                             where i.ProductName.StartsWith("C")
+                             select i).Take(5).Skip(3);
+            foreach (var i in produtosC)
+                Console.WriteLine(i.ToString());
+
+            Console.WriteLine("\nA lista de produtos ordenada pela categoria e depois pelo nome do produto (operadores OrderBy e ThenBy)");
+            var CategoriaNome = products.OrderBy(i => i.Category)
+                               .ThenBy(i => i.ProductName)
+                               .Select(i => i);
+            foreach (var i in CategoriaNome)
+                Console.WriteLine(i.ToString());
+
+            Console.WriteLine("\nMostre cada categoria seguida da lista de produtos incluídos na mesma (GroupBy)");
+            var ProdutosCategoria = products.GroupBy(i => i.Category)
+                                    .Select(i => i);
+            foreach (var o in ProdutosCategoria)
+            {
+                Console.WriteLine("Categoria: " + o.Key);
+                foreach (var i in o)
+                    Console.WriteLine(i.ToString());
+            }
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("\t Nivel 6 xxxx");
+            
+            Produtos listaProdutos = new Produtos();
+            foreach (var ex62 in products)
+                listaProdutos.Add(ex62);
+
+            foreach (var GetListaProdutos in listaProdutos.GetListaProdutos())
+                Console.WriteLine(GetListaProdutos.ToString());
 
 
+            foreach (var GetProdutosSemStock in listaProdutos.GetProdutosSemStock())
+                Console.WriteLine(GetProdutosSemStock.ToString());
 
+
+            foreach (var GetListaProdutosOrdemAlfabetica in listaProdutos.GetListaProdutosOrdemAlfabetica())
+                Console.WriteLine(GetListaProdutosOrdemAlfabetica.ToString());
+
+
+            foreach (var GetListaBebidasMenos25Euros in listaProdutos.GetListaBebidasMenos25Euros())
+                Console.WriteLine(GetListaBebidasMenos25Euros.ToString());
+
+
+            Console.WriteLine("Produto mais barato: " + listaProdutos.GetProdutoMaisBarato().ToString());
+            Console.WriteLine("Produto mais caro: " + listaProdutos.GetProdutoMaisCaro().ToString());
+            Console.WriteLine("Média de preços: " + listaProdutos.GetMediaPreco());
+
+
+            foreach (var GetDinheiroStockPorProduto in listaProdutos.GetDinheiroStockPorProduto())
+                Console.WriteLine(GetDinheiroStockPorProduto.ToString());
+
+
+            foreach (var GetListaProdutosOrdenadaPreco in listaProdutos.GetListaProdutosOrdenadaPreco())
+                Console.WriteLine(GetListaProdutosOrdenadaPreco.ToString());
+
+
+            foreach (var GetCategoriaProdutos in listaProdutos.GetCategoriaProdutos())
+                Console.WriteLine(GetCategoriaProdutos.ToString());
+
+
+            Console.WriteLine("\nProdutos com um custo maior que 200: " + listaProdutos.ProdutosMiasCarosQue200());
+
+            Console.WriteLine("\nNúmero médio de unidades em stock: " + listaProdutos.GetMediaUnidadesEmStock());
+
+            foreach (var GetPrimeiros3ProdutosCustamMais50 in listaProdutos.GetPrimeiros3ProdutosCustamMais50())
+                Console.WriteLine(GetPrimeiros3ProdutosCustamMais50.ToString());
+
+            foreach (var Get4e5ComecamPorC in listaProdutos.Get4e5ComecamPorC())
+                Console.WriteLine(Get4e5ComecamPorC.ToString());
+
+            foreach (var GetProdutosOrdenadosCategoriaENome in listaProdutos.GetProdutosOrdenadosCategoriaENome())
+                Console.WriteLine(GetProdutosOrdenadosCategoriaENome.ToString());
+            
+            foreach (var GetProdutosPorCategoria in listaProdutos.GetProdutosPorCategoria())
+            {
+                Console.WriteLine("Categoria: " + GetProdutosPorCategoria.Key);
+                foreach (var i in GetProdutosPorCategoria)
+                    Console.WriteLine(i.ToString());
+            }
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("\t Nivel 7 xxxx");
+
+            Console.WriteLine("\nRemover do stock uma quantidade de um produto");
+            Stock stock = new Stock();
+            stock.Add(listaProdutos[39], 1);
+            Console.WriteLine(stock.ToString());
+            Console.ReadKey();
+            Console.Clear();
 
         }
 
@@ -718,3 +885,4 @@ namespace LAB06
         }
     }
 }
+

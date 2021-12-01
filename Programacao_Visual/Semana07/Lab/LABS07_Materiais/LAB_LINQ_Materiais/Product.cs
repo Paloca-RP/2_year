@@ -18,5 +18,26 @@ namespace LAB06
         {
             return ProductId + " - " + ProductName + " - " + Category + " - " + UnitPrice + " - " + UnitsInStock;
         }
+        //Nivel 7
+        public override int GetHashCode()
+        {
+            return this.ProductId.GetHashCode();
+        }
+
+        public override bool Equals(object objecto)
+        {
+
+            if (Object.ReferenceEquals(null, objecto))
+                return false;
+
+            if (Object.ReferenceEquals(this, objecto))
+                return true;
+
+            if (objecto.GetType() != this.GetType())
+                return false;
+
+            Product a = objecto as Product;
+            return String.Equals(this.ProductId, a.ProductId);
+        }
     }
 }
